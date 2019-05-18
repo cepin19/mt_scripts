@@ -2,7 +2,7 @@
 # Compare two systems using bootstrap resampling                     #
 #  * by Graham Neubig                                                #
 #  * minor modifications by Mathias Müller                           #
-#                                                                    #
+#  * joblib parallelization by Josef Jon                             #
 # See, e.g. the following paper for references                       #
 #                                                                    #
 # Statistical Significance Tests for Machine Translation Evaluation  #
